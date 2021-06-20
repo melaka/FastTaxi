@@ -1,0 +1,92 @@
+h1{
+    color: rgb(121, 53, 199);
+    font-size: 60px;
+    line-height: 0;
+}
+.headerclass{
+  
+   text-align: center;
+   line-height: 0;
+}
+body{
+    background-color: rgba(178, 214, 48, 0.63);
+   
+}
+.topnav {
+
+    background-color: rgb(59, 176, 223);
+    overflow: hidden;
+    
+
+  
+  }
+
+  .topnav a {
+    float: left;
+    color: #1dd3bb;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 24px;
+  }
+  
+  hr{
+      border-width: 2px;
+  }
+  .Pargrafmain1{
+      color: tomato;
+      text-align: center;
+      font-size: 50px;
+      line-height: 0;
+
+  }
+  .logo {
+    border-radius: 50%;
+  }
+  p{
+    animation-duration: 3s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+  }
+  .vehicle {
+    width: 100%;
+  height: 50%;
+  }
+  .vehiclevan {
+    width: 70%;
+  height: 5;
+
+  }
+  .vehiclecar {
+    width: 100%;
+  height: 1;
+
+  }
+  
+  .vehicleheader{
+      font-size: 40px;
+      color: rgb(97, 138, 226);
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1);
+  }
+.contact{
+    color: rgb(248, 52, 17);
+    text-align: center;
+    font-size: 90px;
+    line-height: 0.5;
+}
+.about{
+    color: rgb(27, 25, 136);
+    text-align: center;
+    font-size: 40px;
+    line-height: 1.6;
+}
+.empabout{
+    color: indigo;
+    font-size: 50px;
+}
+.aboutucbody{
+   
+
+}
+  
